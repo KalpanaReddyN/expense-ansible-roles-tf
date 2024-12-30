@@ -1,0 +1,4 @@
+#mysql_root_password: ExpenseApp@1
+#login_host: mysql.kalpanadevops.online
+
+# In vars we can keep any non-confidential information but not the passwords/tokens.
