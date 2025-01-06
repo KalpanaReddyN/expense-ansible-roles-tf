@@ -11,8 +11,8 @@
 
 - name: import tasks from common role
   ansible.builtin.import_role:
-    name: common               # from common role
-    tasks_from: app-pre-req    #.yaml not required
+    name: common               
+    tasks_from: app-pre-req    
 
 - name: copy frontend conf
   ansible.builtin.template:
