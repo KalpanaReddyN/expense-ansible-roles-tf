@@ -14,7 +14,7 @@
 
 - name: create expense user
   ansible.builtin.user:
-    name: expense
+    name: expense1
 
 - name: import tasks from common role
   tags:

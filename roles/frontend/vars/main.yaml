@@ -1,4 +1,4 @@
-BACKEND_HOST: backend.app-dev.kalpanadevops.online
+BACKEND_HOST: backend.app-dev.devopsbykalpana.online
 app_location: /usr/share/nginx/html
 component: frontend
 
